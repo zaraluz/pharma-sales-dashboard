@@ -1,4 +1,8 @@
-# 💊 Pharmaceutical Sales Performance Dashboard — Power BI
+# 💊 Pharmaceutical Sales Performance Dashboard — Power BI  
+
+![Executive Summary](./EXECUTIVE%20SUMMARY.png)
+
+---
 
 ## 🧠 Introduction  
 This project presents an interactive dashboard built in **Power BI** to analyze pharmaceutical sales performance, sales team efficiency, and distributor/customer insights.  
@@ -50,16 +54,19 @@ The EDA phase guided metric selection and shaped the DAX measures later used in 
 ## 📊 Dashboard Structure  
 
 ### 🧾 **1. Executive Summary**  
+![Executive Summary](./EXECUTIVE%20SUMMARY.png)  
 - Overview of key performance indicators (KPIs).  
 - Top-selling products, cities, and regions.  
 - Year-over-year sales evolution.  
 
 ### 👥 **2. Sales Team Performance**  
+![Sales Performance](./SALES%20PERFORMANCE.png)  
 - Sales by representative, region, and product.  
 - Top-performing teams and contribution percentages.  
 - Ranking of best-selling categories.  
 
 ### 🏢 **3. Distributor & Customer Analysis**  
+![Distributor and Customer Analysis](./DISTRIBUTOR%20AND%20CUSTOMER%20ANALYSIS.png)  
 - Detailed view of distributors and key customers.  
 - Channel breakdown (retail, hospital, etc.).  
 - Regional contribution and customer segmentation.  
